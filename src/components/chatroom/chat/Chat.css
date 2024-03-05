@@ -1,0 +1,19 @@
+.recipient {
+  font-size: 12px;
+}
+
+.chat{
+  padding: 8px 12px;
+  border-radius: 16px;
+  box-sizing: border-box;
+
+  background-color: #1B8DFD;
+  color: #ffffff;
+}
+
+.time {
+  display: flex;
+  align-items: flex-end;
+  font-size: 10px;
+}
+

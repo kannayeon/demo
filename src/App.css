@@ -2,6 +2,7 @@
   text-align: center;
 }
 
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -35,4 +36,24 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.full-height {
+  height: 100%;
+}
+
+.height-100vh{
+  height: 100vh;
+}
+
+.divider{
+  width: 100%;
+  height: 1px;
+  background-color: #D5D5D5;
+  margin: 8px;
+}
+
+.spacing{
+  height: 16px;
+  flex-shrink: 0;
 }
